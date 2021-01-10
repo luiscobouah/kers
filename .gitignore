@@ -21,7 +21,7 @@
 /nbdist/
 /.nb-gradle/
 
-buildAndRun.bat
-buildAndRun.sh
-Dockerfile
-nb-configuration.xml
+/buildAndRun.bat
+/buildAndRun.sh
+/Dockerfile
+/nb-configuration.xml
